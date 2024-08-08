@@ -4,3 +4,14 @@
     font-weight: 300;
     font-style: normal;
 }
+
+/*
+menu{
+    display: flex;
+    flex-direction: column;
+  
+    & li {
+      list-style-type: none;
+    }
+}
+*/
