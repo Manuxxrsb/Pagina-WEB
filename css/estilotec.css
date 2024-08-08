@@ -12,9 +12,14 @@
     border-style: solid;
     border-radius: 10px;
     border-color: blue;
-    
 }
 
 .descripcion-icono{
     margin-left: 10px;
+}
+
+.icono{
+    max-width: 200px;
+    max-height: 200px;
+    background-color: rgba(0, 0, 0, 0.253);
 }
