@@ -1,0 +1,20 @@
+.links{
+    border-color: black;
+    background-color: rgb(22, 21, 21);
+    color: aliceblue;
+    border-radius: 15%;
+    border-color: rgb(133, 127, 138);
+    border-style:inset
+}
+
+.barra-iconos{
+
+    border-style: solid;
+    border-radius: 10px;
+    border-color: blue;
+    
+}
+
+.descripcion-icono{
+    margin-left: 10px;
+}
